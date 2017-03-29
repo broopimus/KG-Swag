@@ -1,0 +1,26 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {background-color:#000;}
+
+.dummy {
+	font-family: Gotham, Helvetica Neue, Helvetica, Arial," sans-serif";
+	color: #fff;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.column {
+  flex-basis: 100%;
+}
+
+idklol
+@media screen and (min-width: 800px) {
+  .column {
+    flex: 1;
+  }
+}
