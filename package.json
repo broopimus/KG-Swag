@@ -1,0 +1,28 @@
+{
+  "name": "kg-swag-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "autoprefixer": "^6.7.7",
+    "gulp": "^3.9.1",
+    "gulp-batch": "^1.0.5",
+    "gulp-postcss": "^6.4.0",
+    "gulp-sourcemaps": "^2.5.0",
+    "gulp-watch": "^4.3.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/broopimus/KG-Swag.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/broopimus/KG-Swag/issues"
+  },
+  "homepage": "https://github.com/broopimus/KG-Swag#readme"
+}
